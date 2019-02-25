@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "About"
 ---
 
 A PhD student at Iowa State University.
