@@ -1,10 +1,8 @@
 ---
-title: "cv"
-output: html_document
+title: "CURRICULUM VITAE"
 ---
 
 
-#CURRICULUM VITAE
 
 ##Personal Information 	
 
@@ -64,4 +62,3 @@ Identify orphan gene and explore their function using RNA-seq data in yeast and 
 1.	Li J, Tang Y and Chen CY. 2016. Association Mapping of SSR Markers to TSWV Resistance in	Cultivated Peanut. Proceedings of the 48th APRES Annual Meeting; Clearwater Beach, FL.
 2.	Li, J., Tang, Y., Jacobson, A.L., Dang, P.M., Li, X., Wang, M., Hagan, A. and Chen, C.Y., 2018. Population structure and association mapping to detect QTL controlling tomato spotted wilt virus resistance in cultivated peanuts. The Crop Journal.
 3.	Arendsee Z, Li J, Singh U, Seetharam A, and Wurtele ES. 2018. New software to identify and explore the orphan genes of maize. Proceedings of the 60th Annual Maize Genetics Conference; Saint-Malo, France.
-
