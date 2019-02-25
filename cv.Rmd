@@ -7,58 +7,93 @@ title: "CURRICULUM VITAE"
 ##Personal Information 	
 
 Name: Jing Li
-Address: 610 Squaw Creek Dr.
-APT: 17
-Ames, IA, 50010, US Phone: 334-728-5280
-E-mail: jingli@iastate.edu
+
+Address: 1229 Florida Ave. Unit306, Ames, IA, 50014
+
+Phone: 334-728-5280
+
+E-mail: [linked phrase](jingli@iastate.edu)
 
 ##Academic Background 	
 
 ###Education
-Sep 2011-Jun 2015	Bachelor of Agriculture
-College of Agriculture and Biotechnology China Agricultural University, Beijing, China
-GPA:3.40/4.0                                                                      Aug 2014- May 2016	Master of Science 
-Department of Crop, Soil, and Environmental Sciences Auburn University, Auburn, AL, USA
-GPA: 3.83/4.0
-Aug 2016 – Now                  PhD student 
-                                              Interdepartmental Genetics Program
-                                              Iowa State University
+Sep 2011 - Jun 2015	  Bachelor of Agriculture
+
+College of Agriculture and Biotechnology   China Agricultural University, Beijing, China
+
+Aug 2014- May 2016	 Master of Science 
+
+Department of Crop, Soil, and Environmental Sciences  Auburn University, Auburn, AL, USA
+
+Aug 2016 – Now   PhD student 
+
+Interdepartmental Genetics Program  Iowa State University
+
 ###Research Experience
 	May 2013- May 2014. Undergraduate Research Practice. China Agricultural University.
+
 Explore the effects of substrate moisture on the storage quality of cucumber seedlings in hardening stage.
+
 	Sep 2013- Apr 2014. Undergraduate Research Practice. China Agricultural University.
+
 Validate the function of resistance-like genes of bacterial spot in tomato.
+
 	May 2015- May 2016. Graduate Research and Thesis. Auburn University.
+
 Population structure and marker-trait association analysis of the U.S. peanut mini-core germplasm collection for resistance to tomato spotted wilted virus.
+
 	Aug 2016 – Oct 2016. Rotation Research. Iowa State University.
+
 Identify orphan genes in legume family.
+
 	Oct 2016 – Dec 2016. Rotation Research. Iowa State University.
+
 RNA seq and GO enrichment analysis for HC toxin response in maize.
+
 	Jan 2017 – Mar 2017. Rotation Research. Iowa State University.
+
 Growth rate analysis of maize.
+
 	Mar 2017 – Now. Iowa State University.
+
 Identify orphan gene and explore their function using RNA-seq data in yeast and maize.
+
 ###Professional Skills
 	Plant specific-Pollinating, phenotyping, genotyping, breeding 
+
 	Wet lab skills: PCR, extra DNA and RNA, gel electrophoresis, protein purification, immunoprecipitation, cloning, virus and bacteria inoculation, physiological measurements 
+
 	Bioinformatics skills: construct linkage mapping and association mapping, sequence alignment and annotation, RNA seq analysis, phylogenetic analysis
+
 	Microsoft Office, bash language, python, perl
+
 	Proficient in statistical software: R and SAS. 
+
 ###Teaching Experience
 	2015 Spring TA Basic Soil Science (Undergraduate course) in Auburn University.
+
 	2015 Fall TA Basic Soil Science (Undergraduate course) in Auburn University.
+
 	2018 Spring TA Principles of Biology II (Undergraduate course) in Iowa State University.
+
 
 ##Honor & Awards 	
 
 2012 The Third Prize Scholarship
+
 2012-2013 The Third Prize Scholarship
+
 2013 The Third Prize in social practice research activity
+
 2014 The First Prize of volleyball game in China Agricultural University.
+
 2016 Outstanding International Student in Auburn University
+
 
 ##Publications 	
 
 1.	Li J, Tang Y and Chen CY. 2016. Association Mapping of SSR Markers to TSWV Resistance in	Cultivated Peanut. Proceedings of the 48th APRES Annual Meeting; Clearwater Beach, FL.
+
 2.	Li, J., Tang, Y., Jacobson, A.L., Dang, P.M., Li, X., Wang, M., Hagan, A. and Chen, C.Y., 2018. Population structure and association mapping to detect QTL controlling tomato spotted wilt virus resistance in cultivated peanuts. The Crop Journal.
+
 3.	Arendsee Z, Li J, Singh U, Seetharam A, and Wurtele ES. 2018. New software to identify and explore the orphan genes of maize. Proceedings of the 60th Annual Maize Genetics Conference; Saint-Malo, France.
