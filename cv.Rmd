@@ -17,17 +17,17 @@ E-mail: [linked phrase](jingli@iastate.edu)
 ##Academic Background 	
 
 ###Education
-Sep 2011 - Jun 2015	  Bachelor of Agriculture
+*Sep 2011 - Jun 2015,  Bachelor of Agriculture
 
-College of Agriculture and Biotechnology   China Agricultural University, Beijing, China
+College of Agriculture and Biotechnology, China Agricultural University, Beijing, China
 
-Aug 2014- May 2016	 Master of Science 
+*Aug 2014 - May 2016,	 Master of Science
 
-Department of Crop, Soil, and Environmental Sciences  Auburn University, Auburn, AL, USA
+Department of Crop, Soil, and Environmental Sciences,  Auburn University, Auburn, AL, USA
 
-Aug 2016 – Now   PhD student 
+*Aug 2016 - Now,   PhD student 
 
-Interdepartmental Genetics Program  Iowa State University
+Interdepartmental Genetics Program, Iowa State University
 
 ###Research Experience
 	May 2013- May 2014. Undergraduate Research Practice. China Agricultural University.
@@ -70,11 +70,11 @@ Identify orphan gene and explore their function using RNA-seq data in yeast and 
 	Proficient in statistical software: R and SAS. 
 
 ###Teaching Experience
-	2015 Spring TA Basic Soil Science (Undergraduate course) in Auburn University.
+2015 Spring TA Basic Soil Science (Undergraduate course) in Auburn University.
 
-	2015 Fall TA Basic Soil Science (Undergraduate course) in Auburn University.
+2015 Fall TA Basic Soil Science (Undergraduate course) in Auburn University.
 
-	2018 Spring TA Principles of Biology II (Undergraduate course) in Iowa State University.
+2018 Spring TA Principles of Biology II (Undergraduate course) in Iowa State University.
 
 
 ##Honor & Awards 	
